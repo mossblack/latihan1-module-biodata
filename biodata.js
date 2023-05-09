@@ -1,6 +1,1 @@
-exports.biodata = {
-    nama: 'Nabil Abdu Xavier',
-    tempatLahir: 'Padang',
-    tanggalLahir: '17 April 2002',
-    alamat: 'Jl. Gumuruh'
-}
+exports.biodata = 'Nama: Nabil Abdu Xavier\nTempat Lahir: Padang\nTanggal Lahir: 17 April 2002\nAlamat: Jl. Gatot Subroto';
